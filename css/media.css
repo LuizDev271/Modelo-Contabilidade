@@ -14,8 +14,8 @@
 
     section#topo h1{
         padding-bottom: 30px;
-        font-size: 32px;
-        width: auto;
+        font-size: 28px;
+        width: 370px;
     }
 
     section#topo p{
@@ -40,12 +40,12 @@
     }
 
     section#ajuda{
-        height: 2000px;
+        height: 2175px;
     }
 
     section#ajuda .row > h1{
-        font-size: 32px;
-        width: 450px;
+        font-size: 28px;
+        width: 370px;
     }
 
     section#ajuda .caixa-atributos{
@@ -59,8 +59,8 @@
 
     section#clientes h1{
         text-align: center;
-        font-size: 32px;
-        width: 400px;
+        font-size: 28px;
+        width: 370px;
     }
 
     section#clientes p{
