@@ -27,7 +27,7 @@
     }
 
     section#sobre{
-        height: 1550px;
+        height: 1600px;
     }
 
     section#sobre h1{
@@ -64,8 +64,9 @@
     }
 
     section#clientes p{
+        font-size: 18px;
         text-align: center;
-        width: 400px;
+        width: 350px;
         padding-bottom: 30px;
     }
 
